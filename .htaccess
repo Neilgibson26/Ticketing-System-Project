@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Rewrite /view to /view.php
+RewriteRule ^view$ view.php [L]
+RewriteRule ^admin/?$ admin.php [L]
+
+# Optional: Rewrite /tickets to /view.php (or another file)
+# RewriteRule ^tickets$ view.php [L]
