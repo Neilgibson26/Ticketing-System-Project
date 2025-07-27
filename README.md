@@ -56,7 +56,8 @@ By working through the tickets, I practiced identifying, prioritizing, and resol
 2. Import the provided MySQL schema to create the `tickets` table with necessary fields.
 3. Update the database connection settings (`index.php` and `admin.php`) to match your environment.
 4. Access the ticket system via your browser:
-   - `/` for the user ticket submission and list view
+   - `/` for the user ticket submission
+   - `/view` for list view of assignments
    - `/admin` for the admin dashboard with ticket management features
 5. Use the forms to add new tickets, view existing ones, and update their status.
 
