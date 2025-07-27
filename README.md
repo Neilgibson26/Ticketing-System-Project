@@ -8,6 +8,24 @@ By working through the tickets, I practiced identifying, prioritizing, and resol
 
 ---
 
+## Screenshots
+
+### User View - Creating Ticket
+
+![Ticket List](screenshots/create-ticket.png)  
+*View and submit tickets with filtering options.*
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)  
+*Manage tickets, filter by status, and mark tickets as resolved.*
+
+### Overview of Assignments
+
+![Admin Dashboard](screenshots/assignments.png)  
+*See which tickets are open and what user they are assigned to.*
+
+
 ## Features
 
 - Create new tickets with **Title**, **Description**, **Priority**, and **Assigned To** fields.
